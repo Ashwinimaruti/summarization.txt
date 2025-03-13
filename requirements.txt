@@ -1,5 +1,5 @@
 streamlit
-langcain
+langchain
 langchain_community
 langchain-groq
 groq
